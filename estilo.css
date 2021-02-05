@@ -1,0 +1,57 @@
+html,body{
+    margin: 0;
+}
+
+ #imagem_fundo{
+     background: url("img/fundo.com.jpeg");
+     height: 100%;
+     text-align:  center;
+ }
+
+ #titulo{
+     color: black;
+     padding-top: 150;
+     font-size: 300%;
+ }
+#subititulo{
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%;
+   border-top: 3px solid white;
+   text-shadow: 1px 1px black;
+}
+#acao{
+    color: white;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px;
+}
+.icone {
+    width: 51px;
+}
+section {
+    padding: 20px;
+}
+.destaque {
+    background-color: white;
+}
+.icone1 {
+    width: 5%;
+}
+.coluna {
+   float: left;
+   padding: 0 5%;
+   position: relative;
+   
+} 
+.dois{
+    width: 40%;
+}
+.quatro {
+    width: 150%;
+}
+.justificado {
+    text-align: justify;
+}
+.centralizado {
+    text-align: center;
+}
